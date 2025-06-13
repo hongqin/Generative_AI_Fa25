@@ -3,7 +3,7 @@ course website
 
 vae
 
-transformer
+transformer, hand calculation
 
 diffusion
 
@@ -14,4 +14,4 @@ agentic AI, self-evolving AI
 
 darwin godel machine, open ended evolution of self-improving agents. 
 
-deep seak
+deep seek
