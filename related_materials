@@ -19,4 +19,9 @@ Foundationa of large language models https://arxiv.org/abs/2501.09223
 
 Understanding machine learning from theory to algorithms, book. 
 
-
+Yilun Xu: https://yilun-xu.com/
+(i) New models: PFGM [10], PFGM++ [13], HGF [18], t-EDM [21]
+(ii) Training: STF [11], Disco-Diff [16], Style Control [9]
+(iii) Sampling: Restart sampling [14], Particle Guidance [15], Anytime AR [5]
+(iv) Discrete diffusion: DDPD [19], EDLM [20]
+(v) Diffusion Distillation: TCM [22], f-distill [23]
