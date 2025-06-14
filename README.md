@@ -10,7 +10,12 @@ diffusion
 LLM (chatGPT tech paper, arxiv)
 https://arxiv.org/abs/2304.01852
 
-agentic AI, self-evolving AI
+diffision LM, 
+
+Eso-LMs, esoteri language models
+https://arxiv.org/abs/2506.01928
+
+Agentic AI, self-evolving AI
 
 darwin godel machine, open ended evolution of self-improving agents. 
 
