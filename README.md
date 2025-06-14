@@ -14,6 +14,8 @@ diffision LM,
 
 Eso-LMs, esoteri language models
 https://arxiv.org/abs/2506.01928
+https://s-sahoo.com/Eso-LMs/
+
 
 Agentic AI, self-evolving AI
 
