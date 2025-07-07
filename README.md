@@ -21,4 +21,6 @@ Agentic AI, self-evolving AI
 
 darwin godel machine, open ended evolution of self-improving agents. 
 
-deep seek
+reinforment learning and deep seek
+
+
