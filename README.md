@@ -23,4 +23,5 @@ darwin godel machine, open ended evolution of self-improving agents.
 
 reinforment learning and deep seek
 
+AI alignment
 
