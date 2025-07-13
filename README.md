@@ -16,6 +16,8 @@ Eso-LMs, esoteri language models
 https://arxiv.org/abs/2506.01928
 https://s-sahoo.com/Eso-LMs/
 
+openevolve
+https://github.com/generative-AI-tutorials/openevolve
 
 Agentic AI, self-evolving AI
 
