@@ -1,5 +1,8 @@
 # Generative_AI_Fall2025
 course website
+student paper proposals. 
+student course project proposals. team formation. 
+
 
 vae
 
