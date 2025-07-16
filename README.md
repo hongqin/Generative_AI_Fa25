@@ -1,7 +1,12 @@
 # Generative_AI_Fall2025
 course website
+
+data camp enrollment
+student self introduciton
 student paper proposals. 
-student course project proposals. team formation. 
+
+student course project proposals. 
+team formation. 
 
 
 vae
