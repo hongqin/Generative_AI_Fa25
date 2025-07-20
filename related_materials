@@ -68,3 +68,32 @@ https://arxiv.org/pdf/2506.15385
 
 La-Proteina: Atomistic Protein Generation via Partially Latent Flow Matching
 https://arxiv.org/abs/2507.09466
+
+google's attenstion male, female, father-mother, japan - sushi, germany - beer? 
+In this paper the authors show that simply by training a skip-gram model you get vector offsets that solve analogies such as
+
+male : female (e.g. king – man + woman ≈ queen)
+
+father : mother
+
+# country → iconic food (e.g. Japan – sushi + Germany ≈ beer) 
+ACL Anthology; OpenTable Technology Blog
+They further explore a larger “Google analogy” test set in their follow-up work:
+Mikolov, T., Sutskever, I., Chen, K., Corrado, G., & Dean, J. (2013). Distributed Representations of Words and Phrases and Their Compositionality. NeurIPS, 3111–3119. 
+arxiv.org
+several recent works have taken the classic word-vector analogies (king–man+woman≈queen, father:mother, Japan:sushi, Germany:beer) and studied whether and how ChatGPT and its successors can do the same:
+Emergent Analogical Reasoning in Large Language Models
+Webb et al. (2022) directly compare human performance to GPT-3 (text-davinci-003) and early GPT-4 on a broad suite of analogy problems (including semantic and abstract matrix analogies), showing that these LLMs already exhibit strong zero-shot analogical reasoning 
+arXiv
+Nature
+ANALOGYKB: Unlocking Analogical Reasoning of Language Models with a Million-scale Knowledge Base
+Yuan et al. (ACL 2024) construct a huge analogy knowledge base and demonstrate that both InstructGPT-003 and ChatGPT can leverage it to improve analogy recognition and generation (with human-level explanation accuracy on tasks like “father:mother” or “country→iconic food”) 
+ACL Anthology
+.
+Using Counterfactual Tasks to Evaluate the Generality of Analogical Reasoning in Large Language Models
+Lewis & Mitchell (2024) create “counterfactual” variants of classic analogy problems and show that, although GPT-3 and GPT-4 perform well on familiar analogies, their accuracy drops sharply on these novel cases—revealing gaps in true abstract reasoning 
+arXiv
+.
+
+
+
