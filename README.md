@@ -8,6 +8,8 @@ student paper proposals.
 student course project proposals. 
 team formation. 
 
+## books: 
+https://arxiv.org/abs/2501.09223
 
 vae
 
