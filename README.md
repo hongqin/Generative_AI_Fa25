@@ -11,6 +11,9 @@ team formation.
 ## books: 
 https://arxiv.org/abs/2501.09223
 
+generative deep learning, 
+https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition?tab=readme-ov-file
+
 vae
 
 transformer, hand calculation
