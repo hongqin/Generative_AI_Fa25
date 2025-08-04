@@ -18,6 +18,9 @@ vae
 
 transformer, hand calculation
 
+vision transformer 
+https://link.springer.com/chapter/10.1007/978-3-031-20053-3_27
+
 diffusion
 
 LLM (chatGPT tech paper, arxiv)
