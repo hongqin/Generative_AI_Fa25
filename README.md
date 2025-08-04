@@ -43,3 +43,9 @@ reinforment learning and deep seek
 
 AI alignment
 
+A Survey on Long-Video Storytelling Generation: Architectures, Consistency, and Cinematic Quality
+
+
+Automated Vehicles Should be Connected with Natural Language
+https://arxiv.org/abs/2507.01059
+
