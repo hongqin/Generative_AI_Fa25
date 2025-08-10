@@ -4,6 +4,8 @@ https://nlp.seas.harvard.edu/annotated-transformer/
 https://qiyanjun.github.io/2024sp-GenAI-Risk-Benefits/
 https://qiyanjun.github.io/2024sp-GenAI-Risk-Benefits//LecturesByTags/
 
+
+
 andrei karpathy
 https://github.com/karpathy
 https://github.com/karpathy/nanoGPT
@@ -138,3 +140,35 @@ https://arxiv.org/abs/2507.07202
 
 nvidia small langauge model
 https://arxiv.org/pdf/2506.02153
+
+Major universities offer valuable slide resources and online course materials on deep generative learning and generative AI. Here are some notable sources:
+
+- **Stanford University**: The course "CS236: Deep Generative Models" by Prof. Stefano Ermon provides detailed lecture videos and slides focused on the foundations, challenges, and applications of generative models in image, text, video, medicine, robotics, and more. The course website with slides is available at https://deepgenerativemodels.github.io/ and videos are on YouTube.[2]
+
+- **Cornell University**: The course "CS 6785: Deep Generative Models," taught by Prof. Vadir Kuleshov, offers an introduction to deep generative models, recent advances, algorithms, and applications including NLP and biology. The lectures are recorded and available on YouTube.[4]
+
+- **MIT (Massachusetts Institute of Technology)**: The "Introduction to Deep Learning 6.S191" program covers deep learning basics along with generative AI applications in media, vision, NLP, and biology. All lecture slides, labs, and code are open-sourced and free to use, accessible at https://introtodeeplearning.com/ with lecture videos like "Generative AI for Media" by Google’s Doug Eck on YouTube.[8][10]
+
+- **Harvard University**: There are presentations specifically on generative AI’s role in education, including outlines for PowerPoint slides targeting its teaching and learning impact, available in PDF form (e.g., from Harvard AI Sandbox materials).[1]
+
+- **University of Virginia (UVA)**: UVA SEAS offers collections of slides on the technical foundations of generative AI with practical uses in engineering design and analysis.[5]
+
+- **Other resources**:
+  - NVIDIA Deep Learning Institute has a teaching kit for generative AI with lecture slides, labs, and Jupyter notebooks focused on GPU-accelerated generative AI development.[6]
+  - Stony Brook University provides teaching resources on generative AI including PowerPoint slides for educators.[9]
+
+If you want ready-to-use lecture slides or full course materials, the Stanford CS236, Cornell CS6785, and MIT 6.S191 courses are among the most comprehensive and authoritative sources from major universities. Their materials are typically publicly available online for educational use.
+
+Would you like direct access links, or specific slide decks on any of these?
+
+[1] https://hcsra.sph.harvard.edu/sites/projects.iq.harvard.edu/files/hcsra/files/presentation_on_ai1.pdf
+[2] https://www.youtube.com/watch?v=XZ0PMRWXBEU
+[3] https://blog.uwgb.edu/catl/files/2023/02/Introduction-to-Generative-AI-CATL-Presentation-Slides.pdf
+[4] https://www.youtube.com/watch?v=IZgvgLy1wyg
+[5] https://teaching.virginia.edu/collections/uva-seas-resources-teaching-genai-use-for-engineering-design-and-analysis/272
+[6] https://developer.nvidia.com/blog/nvidia-deep-learning-institute-releases-new-generative-ai-teaching-kit/
+[7] https://www.sdccd.edu/docs/IIE/ProfessionalDevelopment/Presentations/10252024_AI-Demystified-Intro-to-Generative-AI.pdf
+[8] https://introtodeeplearning.com
+[9] https://www.stonybrook.edu/celt/teaching-resources/aibot.php
+[10] https://www.youtube.com/watch?v=P7Hkh2zOGQ0
+
