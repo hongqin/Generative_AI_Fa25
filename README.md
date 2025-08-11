@@ -49,3 +49,6 @@ A Survey on Long-Video Storytelling Generation: Architectures, Consistency, and 
 Automated Vehicles Should be Connected with Natural Language
 https://arxiv.org/abs/2507.01059
 
+Mamba
+https://arxiv.org/abs/2312.00752
+
