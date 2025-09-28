@@ -11,6 +11,11 @@ team formation.
 ## books: 
 https://arxiv.org/abs/2501.09223
 
+
+## visualizaiton
+https://poloclub.github.io/transformer-explainer/?utm_source=chatgpt.com
+
+## others
 generative deep learning, 
 https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition?tab=readme-ov-file
 
